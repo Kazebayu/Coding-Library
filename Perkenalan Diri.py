@@ -1,1 +1,5 @@
-print("Muhammad Bayu Dwi Praptama")
+print("Perkenalkan")
+print("Nama saya Muhammad Bayu Dwi Praptama")
+print("Dengan NIM 212410102015")
+print("Asal saya dari Jember")
+print("Salam Kenal")
